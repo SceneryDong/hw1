@@ -1,3 +1,2 @@
 # hw1
-altering the syntax in bubbles.js and see the changes
-answer the questions
+1.altering the syntax in bubbles.js and see the changes 2.answer the questions
